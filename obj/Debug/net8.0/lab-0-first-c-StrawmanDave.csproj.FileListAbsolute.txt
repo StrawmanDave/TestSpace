@@ -1,0 +1,15 @@
+/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/bin/Debug/net8.0/lab-0-first-c-StrawmanDave
+/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/bin/Debug/net8.0/lab-0-first-c-StrawmanDave.deps.json
+/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/bin/Debug/net8.0/lab-0-first-c-StrawmanDave.runtimeconfig.json
+/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/bin/Debug/net8.0/lab-0-first-c-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/bin/Debug/net8.0/lab-0-first-c-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/obj/Debug/net8.0/lab-0-first-c-StrawmanDave.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/obj/Debug/net8.0/lab-0-first-c-StrawmanDave.AssemblyInfoInputs.cache
+/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/obj/Debug/net8.0/lab-0-first-c-StrawmanDave.AssemblyInfo.cs
+/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/obj/Debug/net8.0/lab-0-first-c-StrawmanDave.csproj.CoreCompileInputs.cache
+/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/obj/Debug/net8.0/lab-0-first-c-StrawmanDave.sourcelink.json
+/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/obj/Debug/net8.0/lab-0-first-c-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/obj/Debug/net8.0/refint/lab-0-first-c-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/obj/Debug/net8.0/lab-0-first-c-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/obj/Debug/net8.0/lab-0-first-c-StrawmanDave.genruntimeconfig.cache
+/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/obj/Debug/net8.0/ref/lab-0-first-c-StrawmanDave.dll
