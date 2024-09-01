@@ -36,6 +36,7 @@ string songLyrics = "You say goodbye, I say hello";
 Console.WriteLine(songLyrics.Contains("goodbye"));
 Console.WriteLine(songLyrics.Contains("greetings"));
 
+// Challenge Solutio
 Console.WriteLine(songLyrics.StartsWith("You"));
 Console.WriteLine(songLyrics.StartsWith("greetings"));
 
