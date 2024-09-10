@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/lab-0-first-c-StrawmanDave.csproj",
+      "projectUniqueName": "/home/david/david-progamming-1400/TestSpace/lab-0-first-c-StrawmanDave.csproj",
       "projectName": "lab-0-first-c-StrawmanDave",
-      "projectPath": "/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/lab-0-first-c-StrawmanDave.csproj",
+      "projectPath": "/home/david/david-progamming-1400/TestSpace/lab-0-first-c-StrawmanDave.csproj",
       "packagesPath": "/home/david/.nuget/packages/",
-      "outputPath": "/home/david/david-progamming-1400/lab-0-first-c-StrawmanDave/obj/",
+      "outputPath": "/home/david/david-progamming-1400/TestSpace/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/david/.nuget/NuGet/NuGet.Config"
