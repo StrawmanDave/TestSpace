@@ -1,14 +1,22 @@
-﻿Console.WriteLine("How many chocolate eggs where gathers?");
-string textChoco = Console.ReadLine();
+﻿Console.Title = "The Defence of Consolas";
 
-int numChoco = Convert.ToInt32(textChoco); // converts the input into a number not a string
+Console.Write("Target row? ");
+string textRow = Console.ReadLine();
+Console.Write("Target column? ");
+string textColumn = Console.ReadLine();
 
-int sistersEggs; // the int variable must be declared first
-sistersEggs = numChoco / 4; // takes the input number and divides it by the 4 sisters
-Console.WriteLine($"Each sister gets {sistersEggs} chocolate eggs");
+int Row = Convert.ToInt32(textRow);
+int Column = Convert.ToInt32(textColumn);
 
-int duckBearShare; // the int variable must be declared before assinging a value
-duckBearShare = numChoco  % 4; // takes the input number and finds the remainder.
-Console.WriteLine($"Duckbear gets {duckBearShare}");
+int upRow = Row + 1;
+int leftColumn = Column - 1;
+int downRow = Row - 1;
+int rightColumn = Column + 1;
 
-/* The 3 total egg counts where Duckbear gets more chocolate eggs are 6, 7, and 11. */
+Console.WriteLine($"Deploy to: ");
+Console.WriteLine($"({Row}, {leftColumn})");
+Console.WriteLine($"({downRow}, {Column})");
+Console.WriteLine($"({Row}, {rightColumn})");
+Console.WriteLine($"({upRow}, {Column})");
+
+Console.Beep(440, 1000);
